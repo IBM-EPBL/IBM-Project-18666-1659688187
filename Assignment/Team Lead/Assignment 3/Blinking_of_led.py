@@ -1,3 +1,5 @@
+#project implementation - https://wokwi.com/projects/344257386572153426
+
 #module for interfacing with the rasberrypi pico
 from machine import Pin
 
@@ -15,3 +17,4 @@ while True:
   sleep(1) #delay for 1 second
   led.value(0) #set the pin 17 to low
   sleep(1) #delay for 1 second
+  
