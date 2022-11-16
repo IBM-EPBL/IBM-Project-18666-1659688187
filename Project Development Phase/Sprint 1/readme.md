@@ -8,4 +8,4 @@
 In this sprint we are going to complete the following objectives;
 
  - Develop a python script to publish the random sensor (temperature, humidity and air quality index) data to the IBM IoT platform.
- - Get Temperature and Humidity as input from the ESP32 using [wokwi](https://wokwi.com/) which is considered to get the input from the environmental conditions.
+ - Get Temperature, Humidity and Air Quality Index as input from the ESP32 using [wokwi](https://wokwi.com/) which is considered to get the input from the environmental conditions.
