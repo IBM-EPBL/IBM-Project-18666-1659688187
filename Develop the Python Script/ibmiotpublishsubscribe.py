@@ -18,10 +18,10 @@ authToken = "12345678"
 def myCommandCallback(cmd):
     print("Command received: %s" % cmd.data['command'])
     status=cmd.data['command']
-    if status=="lighton":
-        print ("led is on")
+    if status=="motoron":
+        print ("motor is on")
     else :
-        print ("led is off")
+        print ("motor is off")
    
     #print(cmd)
     
